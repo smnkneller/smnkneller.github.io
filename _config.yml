@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Simon Kneller"
 title_separator          : "-"
 name                     : &name "Simon Kneller"
-description              : &description "Senior Consultant Data Science and Head of IoT & Industrial Analytics at esentri AG"
+description              : &description "Head of Industrial Analytics & IoT and Senior Consultant Data Science at esentri AG"
 url                      : https://smnkneller.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "smnkneller.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Simon Kneller"
-  avatar           : "profile.png"
-  bio              : "Senior Consultant Data Science and Head of IoT & Industrial Analytics at esentri AG"
+  avatar           : "simon1.JPG"
+  bio              : "Head of Industrial Analytics & IoT and Senior Consultant Data Science at esentri AG"
   location         : "Germany, Karlsruhe Area"
   employer         :
   pubmed           : 
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/simon-kneller"
+  linkedin         : "simon-kneller"
   orcid            : 
   pinterest        :
   soundcloud       :
