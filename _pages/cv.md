@@ -20,7 +20,7 @@ About this site
 There are three main reasons for me operating this website:
 - Writing forces sharper understanding. I believe there is a huge difference between writing down notes just for myself and writing something down that is supposed to be understandable for everyone (at least with the necessary technical background) in terms of quality and long term repoducability.
 - Feeling the pressure of getting things written down from time to time helps me to cut down longterm projects into logical milestones. I believe that's enriching for the project itself as well as helpful for memorizing its technical main diffiulties afterwards.
-- When it comes to specific technical problems my sources number one are blogpost and discussions in technical forums. I hope I can also contibute a little bit with this website. 
+- When it comes to specific technical problems my sources number one are blogpost and discussions in technical forums. I hope I can also contribute a little bit with this website. 
   
 
 _____________________________________________________________________________________________  
