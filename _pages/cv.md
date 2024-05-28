@@ -16,8 +16,8 @@ I strongly believe that key to success of data science projects is an end-to-end
 
 Vita
 ======
-![vita1](/images/202405_CV_deutsch-1.jpg)
-![vita2](/images/202405_CV_deutsch-2.jpg)
+![vita1](/images/202405_CV_deutsch-1.png)
+![vita2](/images/202405_CV_deutsch-2.png)
 
 
 About this site
