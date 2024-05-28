@@ -14,6 +14,11 @@ I'm currently working as Head of Industrial Analytics & IoT at [esentri AG](http
 
 I strongly believe that key to success of data science projects is an end-to-end approach. That means domain experts, data engineers, data scientist and MLOps have to work seamlessly togehter. There is no such thing like a handover of the "data package" between the data engineer and the data scientist or the "algorithm package" between the data scientist and MLOps. Of course, there cannot be the one person that unites all the knowledge of these roles in depth, but I think each role has to go beyond its role definition to understand each other in the team and take the right decisions. And that's what I'm trying to do continuously: I would call myself home in the role of the data scientist from where I expand my knowledge towards data engineering, MLOps and of course the industrial domain I am working in.
 
+Vita
+======
+![vita1](/images/202405_CV_deutsch-1.jpg)
+![vita2](/images/202405_CV_deutsch-2.jpg)
+
 
 About this site
 ======
