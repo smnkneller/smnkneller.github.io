@@ -1,11 +1,11 @@
 # main links links
 main:
 
-  - title: "Blog Posts"
+  - title: "Talks"
     url: /
 
-  - title: "Talks"
-    url: /talks/   
+  - title: "Blog Posts"
+    url: /blogposts/   
 
   - title: "About me"
     url: /cv/
